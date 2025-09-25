@@ -31,7 +31,7 @@ Hi there 👋 I'm **Anıl Duman**, and I recently completed my **Master’s in S
   - Anomaly Detection
   - Individual Identification
 
-  - **Tech Stack:** Python, TensorFlow, PyTorch, CNNs
+  - **Tech Stack:** Python, PyTorch, CNNs
 
 - **Joint Age & Gender Estimation**
   - Multi-task CNN + EfficientNet (B0/B3)
