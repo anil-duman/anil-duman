@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I'm **Anıl Duman**, and I recently completed my **Master’s in Software Engineering** in Germany. During my thesis, I developed a **CNN-based framework for wildlife monitoring**, using transfer learning and anomaly detection to classify species, analyze their behavior over time, and support conservation efforts. My journey started in electrical engineering and led me through diverse fields like electrochemical technologies, aviation, and even archaeology, which shaped the way I approach complex problems. I’m passionate about building **AI systems that have real-world impact**, especially in areas like sustainability, nature conservation, and scientific discovery, while also exploring my love for **history and art** that inspires creativity in my work.
+Hi there 👋 I'm **Anıl Duman**, and I recently completed my **Master’s in Software Engineering** in Germany. During my thesis, I developed a **CNN-based framework for wildlife monitoring**, using transfer learning and anomaly detection to classify species, analyze their behavior over time, and support conservation efforts. My journey started in electrical engineering and led me through diverse fields like electrochemical technologies, aviation, and even archaeology, which shaped the way I approach complex problems. I’m passionate about building **AI systems that have real-world impact**, especially in areas like sustainability, nature conservation, and scientific discovery. I also have a strong love for history and art.
 
 ## Projects
 
