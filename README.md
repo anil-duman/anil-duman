@@ -33,7 +33,7 @@ Hi there 👋 I'm **Anıl Duman**, and I recently completed my **Master’s in S
 
   - **Tech Stack:** Python, TensorFlow, PyTorch, CNNs
 
-- *Joint Age & Gender Estimation**
+- **Joint Age & Gender Estimation**
   - Multi-task CNN + EfficientNet (B0/B3)
   - Attention mechanisms
 
