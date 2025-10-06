@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I'm **Anıl Duman**, and I recently completed my **Master’s in Software Engineering** in Germany. During my thesis, I developed a **CNN-based framework for wildlife monitoring**, using transfer learning and anomaly detection to classify species, analyze their behavior over time, and support conservation efforts. 
+Hi there 👋 I'm **Anıl Duman**, **Master’s in Software Engineering** in Germany. During my thesis, I developed a **CNN-based framework for wildlife monitoring**, using transfer learning and anomaly detection to classify species, analyze their behavior over time, and support conservation efforts. 
 
 My journey started in electrical engineering and led me through diverse fields like electrochemical technologies, aviation, and even archaeology, which shaped the way I approach complex problems. Along the way, I also worked as an electrical engineer in industrial environments, gaining hands-on experience with automation systems and maintenance projects. 
 
