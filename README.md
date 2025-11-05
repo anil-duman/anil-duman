@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I'm **Anıl Duman**, **Master’s in Software Engineering** in Germany. During my thesis, I'm developing a **CNN-based framework for wildlife monitoring**, using transfer learning and anomaly detection to classify species, analyze their behavior over time, and support conservation efforts. 
+Hi there 👋 I'm **Anıl Duman**, and I recently completed my **Master’s in Software Engineering** in Germany. During my thesis, I developed a **CNN-based framework for wildlife monitoring**, using transfer learning and anomaly detection to classify species, analyze their behavior over time, and support conservation efforts. 
 
 My journey started in electrical engineering and led me through diverse fields like electrochemical technologies, aviation, and even archaeology, which shaped the way I approach complex problems. Along the way, I also worked as an electrical engineer in industrial environments, gaining hands-on experience with automation systems and maintenance projects. 
 
@@ -24,6 +24,17 @@ I’m passionate about building **AI systems that have real-world impact**, espe
 Beyond the world of code and research, I hold a strong love for history and art, the timeless sources of inspiration that fuel my creativity. 🎨📜
 
 ## Projects
+- **ResearchHub AI — *Autonomous Research Agent***
+  - LLM ReAct agents + custom tools + Streamlit UI  
+  - Autonomous paper search + notes + reasoning
+  - Custom web + Wikipedia tools
+  - Multi-step chain composition
+
+- **Text-Based RL Agent (LLM + RL)**
+  - Hybrid DistilGPT-2 + RL agent  
+  - Text-grid environment navigation  
+  - Reward shaping  
+  - **40–60%** success
 
 - **survAIval** – AI Ecosystem Simulation (Individual Project - In Development)
   - Multi-agent AI ecosystem with different species
@@ -36,8 +47,6 @@ Beyond the world of code and research, I hold a strong love for history and art,
   - Spatio-temporal Insights
   - Anomaly Detection
   - Individual Identification
-
-  - **Tech Stack:** Python, PyTorch, CNNs
 
 - **Joint Age & Gender Estimation**
   - Multi-task CNN + EfficientNet (B0/B3)
